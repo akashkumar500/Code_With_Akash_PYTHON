@@ -22,7 +22,7 @@ units = {
              "millimeter": 25.4, "yard": 0.0277778},
              
     "nautical mile": {"km": 1.852, "miles": 1.15078, "m": 1852, "feet": 6076.12, "cm": 185200, "inch": 72913.4,
-                      "millimeter": 1852000, "yard": 2025.37},
+                    "millimeter": 1852000, "yard": 2025.37},
                       
     "millimeter": {"km": 0.000001, "miles": 0.000000621371, "m": 0.001, "feet": 0.00328084, "cm": 0.1, "inch": 0.0393701,
                    "nautical mile": 0.000000539957, "yard": 0.00109361},
